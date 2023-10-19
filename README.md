@@ -34,6 +34,6 @@ setelah ekstensi terinstall kamu dapat meng click logo ekstensi tersebut dan pil
 
 ## license
 
-ekstensi ini berlisensi dibawah naungan MIT license
+ekstensi ini berlisensi dibawah naungan MIT license dan dibuat oleh akun github bernama vkopitsa https://github.com/vkopitsa/gform-gpt-assistent
 
 
